@@ -1,5 +1,4 @@
 ﻿CDD
 
-moksh gay
-===
+moksh
 
