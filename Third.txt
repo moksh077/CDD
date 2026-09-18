@@ -1,1 +1,6 @@
 moksh id hacked..............
+#include<stdio.>
+int main(){
+printf("Hello Moksh");
+return 0;
+}
